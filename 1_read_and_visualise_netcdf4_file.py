@@ -1,7 +1,7 @@
 #!/sr/bin/env python
 
 ###############################################################################
-# Program : 
+# Program :
 # Authors  : Jesus
 # Date	  : 22 January 2023
 # Purpose : Work with NetCDF4 files
@@ -13,7 +13,7 @@ Working with NetCDF4 files:
 
 (1) Read, analysis, operate and visualise netCDF4 file. 
 
-"""   
+"""
 
   
 #%%
